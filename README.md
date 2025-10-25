@@ -13,6 +13,6 @@ This repository is a collaborative Git tutorial between a classmate an I where w
 
 ## Collaborators
 - Mohamed Hussain
-- Ramual Dinduial
+- Ramual Dindyal
 
 
